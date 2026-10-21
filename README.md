@@ -112,6 +112,6 @@ Python 3 · pandas · NumPy · SciPy · statsmodels · seaborn · Matplotlib
 
 ## Autor
 
-**SEU NOME**
+**Richard Bernardino Mendes**
 Centro Universitário Impacta, disciplina de Inferência Estatística e Análise de Dados
 Professor: Msc. Kyung Moo Kim
