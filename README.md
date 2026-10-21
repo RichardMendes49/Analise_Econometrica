@@ -2,7 +2,7 @@
 
 Diagnóstico estatístico dos indicadores econômicos da República de Valória (país fictício), feito em Python, com estatística descritiva, testes de hipóteses, ANOVA e regressão linear, e encerrado com um informe executivo em formato de *storytelling* com dados.
 
-Projeto desenvolvido como **Exercício Programa (EP) Individual** da disciplina de *Inferência Estatística e Análise de Dados* do Centro Universitário Impacta (UNIIMPACTA).
+Projeto desenvolvido para a disciplina de *Inferência Estatística e Análise de Dados* do Centro Universitário Impacta (IMPACTA).
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLE_AQUI_O_LINK_DO_SEU_COLAB)
 
@@ -91,10 +91,10 @@ A base fornecida não contém `Periodo_Politica` nem `Meta_Inflacao_Cumprida`. A
 ### Localmente
 
 ```bash
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/RichardMendes49/Analise_Econometrica.git
+cd Analise_Econometrica
 pip install pandas numpy scipy statsmodels seaborn matplotlib openpyxl jupyter
-jupyter notebook Projeto_Analise_Macroeconomica_Valoria_final.ipynb
+jupyter notebook Projeto_Analise_Macroeconomica.ipynb
 ```
 
 ## Tecnologias
@@ -106,7 +106,7 @@ Python 3 · pandas · NumPy · SciPy · statsmodels · seaborn · Matplotlib
 ```
 .
 ├── Projeto_Analise_Macroeconomica_Valoria_final.ipynb   # notebook com análise e informe executivo
-├── dados_macroeconomicos_valoria.xlsx                    # base de dados (opcional, o notebook a gera)
+├── dados_macroeconomicos_valoria.xlsx                    
 └── README.md
 ```
 
