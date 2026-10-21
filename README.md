@@ -4,7 +4,7 @@ Diagnóstico estatístico dos indicadores econômicos da República de Valória 
 
 Projeto desenvolvido para a disciplina de *Inferência Estatística e Análise de Dados* do Centro Universitário Impacta (IMPACTA).
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLE_AQUI_O_LINK_DO_SEU_COLAB)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gsqn9leUs9H8zAUm0pdryUBChN66wi-y#scrollTo=c90ed22e)
 
 > **Aviso:** Valória é fictícia e a base é simulada. Os resultados descrevem apenas este conjunto de dados e servem como exercício metodológico, não como evidência sobre um país real. Todas as relações encontradas são associações, não causalidade.
 
